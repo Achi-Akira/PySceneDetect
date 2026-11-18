@@ -1,0 +1,9 @@
+{
+  "name": "pyscenedetect",
+  "version": "1.0.0",
+  "description": "Find scene cuts and fades in videos with PySceneDetect, then split the video, save frames, or export scene lists, chapters, EDL and editor timelines, from the command line or Python.",
+  "homepage": "https://www.scenedetect.com",
+  "repository": "https://github.com/Achi-Akira/PySceneDetect",
+  "license": "BSD-3-Clause",
+  "keywords": ["video", "scene-detection", "cut-detection", "ffmpeg", "opencv", "editing"]
+}
